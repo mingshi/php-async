@@ -1,0 +1,11 @@
+PHP Async service use ZeroMQ Example
+
+Requires ZeroMQ  && php-zmq
+
+Test:
+
+First:
+    php service.php
+
+Then:
+    php client.php
